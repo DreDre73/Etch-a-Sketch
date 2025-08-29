@@ -1,5 +1,5 @@
 # Etch-a-Sketch
-Etch-a-Sketch web app with adjustable grid size and click-drag drawing, built with JavaScript, HTML, and CSS.
+Etch-a-Sketch web app with adjustable grid size and click-drag drawing.
 
 ## Features
 - Dynamic grid creation with user-defined size.
@@ -10,3 +10,6 @@ Etch-a-Sketch web app with adjustable grid size and click-drag drawing, built wi
 - HTML
 - CSS
 - JavaScript
+
+## Preview 
+Live Preview: https://dredre73.github.io/Etch-a-Sketch/
