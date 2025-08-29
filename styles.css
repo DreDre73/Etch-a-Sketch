@@ -8,34 +8,30 @@ body{
 }
 
 #buttonContainer{
-    margin-bottom: 5em;
+    margin-bottom: 1em;
 }
 
 header{
-    font-size: 3em;
+    font-size: small;
 }
 
 label{
-    font-size: 3em;
-    font-weight: 500;
-    margin-right: 24px;
+    font-weight: 600;
+    margin-right: 8px;
 }
 
 input{
-    font-size: 3em;
     border: none;
-    border-radius: 10px;
     padding: 10px;
 }
 
 button{
-    font-size: 3em;
     box-sizing: border-box;
-    padding: 0px 48px;
+    padding: 8px 20px;
     border: none;
-    border-radius: 20px;
-    margin: 0 24px;
+    border-radius: 5px;
     font-family: 'Poppins';
+    font-weight: 500;
     cursor: pointer;
     transition: background 0.2s ease, transform 0.1s ease;
 }
@@ -46,9 +42,9 @@ button:hover{
 }
 
 #gridContainer{
-    width: 800px;
-    height: 800px;
-    border: 15px solid black;
+    width: 550px;
+    height: 550px;
+    border: 5px solid black;
     display: flex;
     flex-wrap: wrap;
     align-content: flex-start;
