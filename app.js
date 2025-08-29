@@ -20,7 +20,7 @@ function createGrid(input){
     gridContainer.innerHTML = "";
     squares.length = 0; // also reset the squares array
     
-    const squareSize = 2000 / input ; //set the size of the square equal to the width/height divided by the input number of squares
+    const squareSize = 800 / input ; //set the size of the square equal to the width/height divided by the input number of squares
 
     for(let i=0; i < input * input; i++){ //loop through the total # of square which is input * input
         const square = document.createElement("div");
